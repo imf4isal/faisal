@@ -1,0 +1,28 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-items ul {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-items ul li {
+  margin-right: 10px;
+}
+
+.navbar-items ul li a {
+  text-decoration: none;
+  color: grey;
+}
+
+.navbar-social {
+  display: flex;
+}
+
+.social {
+  margin-left: 10px;
+}
